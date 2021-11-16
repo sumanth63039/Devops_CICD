@@ -3,3 +3,6 @@
 <h1> Hello, Welcome to Simple DevOps Project WE are rock !!   </h1>
 
 <h1> We have automate CICD </h1>
+
+
+<h1> We are done HERE WITH CICD PIPELINE <\h1>
