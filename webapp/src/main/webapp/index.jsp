@@ -9,3 +9,5 @@
 <h1> We are done HERE WITH CICD PIPELINE single machine <\h1>
 
 <h1> Hello, Welcome to Simple DevOps Project WE are rock !!   </h1>
+  
+<h1> Hello, Welcome to Simple DevOps Project WE are rock !!   </h1>
