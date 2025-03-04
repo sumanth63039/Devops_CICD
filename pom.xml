@@ -182,7 +182,7 @@
 
       <dependency>
         <groupId>javax.servlet.jsp</groupId>
-        <artifactId>jsp-api</groupId>
+        <artifactId>jsp-api</artifactId> <!-- Corrected tag -->
         <version>2.2</version>
       </dependency>
 
