@@ -14,3 +14,4 @@
   
 <h1> Hello, Welcome to Simple DevOps Project WE are rock !!   </h1>
 <h1> Hello, Welcome to Simple DevOps Project WE are rock !!   </h1>
+<h1> Hello, Welcome to Simple DevOps Project  we created by using manual WE are rock !!   </h1>
